@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T21:46:16.199Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="CbcriMKRZCPxYBogl9GX" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T21:53:00.995Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="lX-jSSAgXiTKY7fKX6xD" version="24.5.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1050" dy="1699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="CENS Receives Phone Call" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="CENS Receives Phone Call" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
@@ -20,11 +20,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Related to Screening" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Related to Screening" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="170" y="80" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="No Screening" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="190" width="120" height="40" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="No Screening" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
           <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
@@ -40,31 +40,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Substance Use and Requires Screening" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="150" y="275" width="140" height="110" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Related to Substance Use and Requires Screening" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="140" y="252.5" width="160" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="430" width="120" height="40" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Try Your Best to Help Client With Other Needs Within Your Capability. Otherwise, You Can Politely End the Call." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="130" y="490" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="fu-Jnyq1NOXdT71eh0Bg-0">
+        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="fu-Jnyq1NOXdT71eh0Bg-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Open PCNX to Begin Screening" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Open PCNX to Begin Screening" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fu-Jnyq1NOXdT71eh0Bg-0" target="fu-Jnyq1NOXdT71eh0Bg-2">
+        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fu-Jnyq1NOXdT71eh0Bg-0" target="fu-Jnyq1NOXdT71eh0Bg-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-0" value="Enter Client Info Into the Admission Tab" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-0" value="Enter Client Info Into the Admission Tab" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="470" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fu-Jnyq1NOXdT71eh0Bg-2" target="fu-Jnyq1NOXdT71eh0Bg-4">
+        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fu-Jnyq1NOXdT71eh0Bg-2" target="fu-Jnyq1NOXdT71eh0Bg-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-2" value="Complete Assessment on the ASAM Assessment Tab" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-2" value="Complete Assessment on the ASAM Assessment Tab" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="620" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fu-Jnyq1NOXdT71eh0Bg-24" target="fu-Jnyq1NOXdT71eh0Bg-6">
+        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fu-Jnyq1NOXdT71eh0Bg-24" target="fu-Jnyq1NOXdT71eh0Bg-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1040" y="330" as="sourcePoint" />
             <Array as="points">
@@ -73,56 +73,56 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-33" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fu-Jnyq1NOXdT71eh0Bg-7">
+        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-33" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fu-Jnyq1NOXdT71eh0Bg-7" vertex="1" connectable="0">
           <mxGeometry x="0.2945" relative="1" as="geometry">
             <mxPoint x="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fu-Jnyq1NOXdT71eh0Bg-4" target="fu-Jnyq1NOXdT71eh0Bg-24">
+        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fu-Jnyq1NOXdT71eh0Bg-4" target="fu-Jnyq1NOXdT71eh0Bg-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-4" value="Use SBAT to Find Available Beds For Client Based on Their Final Level of Care Decision" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-4" value="Use SBAT to Find Available Beds For Client Based on Their Final Level of Care Decision" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="770" y="290" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fu-Jnyq1NOXdT71eh0Bg-6" target="fu-Jnyq1NOXdT71eh0Bg-8">
+        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fu-Jnyq1NOXdT71eh0Bg-6" target="fu-Jnyq1NOXdT71eh0Bg-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-6" value="Add Client, CENS Information, and Services Provided in Service Connection Log Tab" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-6" value="Add Client, CENS Information, and Services Provided in Service Connection Log Tab" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1200" y="285" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fu-Jnyq1NOXdT71eh0Bg-8" target="fu-Jnyq1NOXdT71eh0Bg-10">
+        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fu-Jnyq1NOXdT71eh0Bg-8" target="fu-Jnyq1NOXdT71eh0Bg-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-8" value="Complete CENS Client Information Survey" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-8" value="Complete CENS Client Information Survey" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1360" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-10" value="Add Client Information to the CENS Tracking Sheet in the Sepulveda Folder" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-10" value="Add Client Information to the CENS Tracking Sheet in the Sepulveda Folder" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1510" y="290" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-19" value="Fill Out CENS Internal Referral Form and Email to Will, Paulla, and Jackie. Attach to Email a Picture of Client&#39;s Medi-Cal Eligibility Along With the Internal Referral Form." style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-19" value="Fill Out CENS Internal Referral Form and Email to Will, Paulla, and Jackie. Attach to Email a Picture of Client&#39;s Medi-Cal Eligibility Along With the Internal Referral Form." style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="990" y="-340" width="180" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fu-Jnyq1NOXdT71eh0Bg-26" target="fu-Jnyq1NOXdT71eh0Bg-29">
+        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fu-Jnyq1NOXdT71eh0Bg-26" target="fu-Jnyq1NOXdT71eh0Bg-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-26" value="Clients MUST Have an Active Medi-Cal to be Eligible to Receive Outpatient Treatment at Didi Hirsch.&amp;nbsp;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-26" value="Clients MUST Have an Active Medi-Cal to be Eligible to Receive Outpatient Treatment at Didi Hirsch.&amp;nbsp;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1005" y="80" width="150" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fu-Jnyq1NOXdT71eh0Bg-29" target="fu-Jnyq1NOXdT71eh0Bg-19">
+        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fu-Jnyq1NOXdT71eh0Bg-29" target="fu-Jnyq1NOXdT71eh0Bg-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-29" value="To Check Clients&#39; Medi-Cal Eligibility, Visit&amp;nbsp;https://secure.medi-cal.ca.gov/mcwebpub/login.aspx?ReturnUrl=%2feligibility%2fEligibility.aspx&lt;div&gt;Login Using Below Info:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;User ID: 000001973&lt;/div&gt;&lt;div&gt;Password: 01841700&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="950" y="-140" width="260" height="180" as="geometry" />
+        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-29" value="To Check Clients&#39; Medi-Cal Eligibility, Visit&amp;nbsp;https://secure.medi-cal.ca.gov/mcwebpub/login.aspx?ReturnUrl=%2feligibility%2fEligibility.aspx&lt;div&gt;Login Using Below Info:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;User ID: 000001973&lt;/div&gt;&lt;div&gt;Password: 01841700&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="955" y="-140" width="250" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fu-Jnyq1NOXdT71eh0Bg-24" target="fu-Jnyq1NOXdT71eh0Bg-26">
+        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fu-Jnyq1NOXdT71eh0Bg-24" target="fu-Jnyq1NOXdT71eh0Bg-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-40" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fu-Jnyq1NOXdT71eh0Bg-39">
+        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-40" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fu-Jnyq1NOXdT71eh0Bg-39" vertex="1" connectable="0">
           <mxGeometry x="-0.325" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-24" value="Does Client Qualify for Referral to Didi Hirsch Outpatient?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fu-Jnyq1NOXdT71eh0Bg-24" value="Does Client Qualify for Referral to Didi Hirsch Outpatient?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1000" y="260" width="160" height="140" as="geometry" />
         </mxCell>
       </root>
